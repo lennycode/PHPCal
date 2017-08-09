@@ -1,6 +1,8 @@
 # PHPCal
 Script to Generate a Graphical Calendar(as an image) in PHP <br/>
-Parameters:
+
+
+## Parameters:
 
 ----------
 
